@@ -1,0 +1,2 @@
+# practical
+book inventory management
